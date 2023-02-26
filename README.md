@@ -1,6 +1,6 @@
+Here are represented some of my study projects.
 
+**Content**:
 
-Here are represented some of my study projects:
-
- - `CW` - courseworks;
- - `DW` - diplomworks.
+ - `CW` - courseworks (larger than usual homeworks);
+ - `DW` - diplomworks (final projects in other words).
